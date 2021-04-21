@@ -15,3 +15,9 @@ but longer and with extra stuff.
 
 If you want to copy the link and send it to somebody, being able to decode it
 and just send the actual link.
+
+
+# Requirements
+
+Requires that `node` is installed via Homebrew (or at least available as
+`/usr/local/bin/node`).
