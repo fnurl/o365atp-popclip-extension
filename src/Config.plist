@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Decode SafeLink</string>
+			<key>Shell Script File</key>
+			<string>decode_o365atp.js</string>
+			<key>Script Interpreter</key>
+			<string>/usr/local/bin/node</string>
+			<key>After</key>
+			<string>preview-result</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Decode an Office 365 ATP SafeLink to clipboard.</string>
+	<key>Extension Identifier</key>
+	<string>com.fnurl.popclip.extension.decodeO365atp</string>
+	<key>Extension Name</key>
+	<dict>
+		<key>en</key>
+		<string>SafeLink Decoder</string>
+	</dict>
+</dict>
+</plist>
