@@ -8,9 +8,9 @@
 			<key>Title</key>
 			<string>Decode SafeLink</string>
 			<key>Shell Script File</key>
-			<string>decode_o365atp.js</string>
+			<string>decode_o365atp.py</string>
 			<key>Script Interpreter</key>
-			<string>/usr/local/bin/node</string>
+			<string>/usr/bin/python3</string>
 			<key>After</key>
 			<string>preview-result</string>
 		</dict>
